@@ -44,7 +44,7 @@ This project aims to build an autonomous robotic manipulator capable of precise 
 | **Relay** | E-Stop Cutoff | PB12 | Digital Out |
 | **Buttons** | User Inputs | Port C (PC0-PC3, PC10-PC11) | External 2000Ω Pull-Up |
 
-> 📄 **Full Documentation:** For detailed schematics and technical specifications, please check the [Documentation PDF](Docs/RobotArm - Documentation.pdf).
+> 📄 **Full Documentation:** For detailed schematics and technical specifications, please check the [Documentation PDF](Docs/Documentation.pdf).
 
 ## 💻 Software Architecture
 

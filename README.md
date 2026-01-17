@@ -66,7 +66,7 @@ The firmware is developed in **STM32CubeIDE** using HAL libraries and **FreeRTOS
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/RoboticArm-STM32.git](https://github.com/YourUsername/RoboticArm-STM32.git)
+    git clone https://github.com/vlad-brasoveanu/STM32-Robotic-Arm-6DoF
     ```
 2.  Open **STM32CubeIDE** and select `File > Import > Existing Projects into Workspace`.
 3.  Select the cloned folder.

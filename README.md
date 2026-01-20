@@ -8,8 +8,31 @@
 A 6-Degree-of-Freedom robotic arm powered by **STM32 Nucleo-F401RE** and **FreeRTOS**.
 This project features a "Teach & Play" mode, allowing users to manually record movements and replay them autonomously, similar to industrial "Cobots".
 
-![Robot Demonstration](Images/robot_photo.jpg)
 
+
+<img width="303" height="404" alt="img1-background" src="https://github.com/user-attachments/assets/1c9c4720-c867-487e-b7c3-8871d244a769" />
+<img width="303" height="404" alt="img2-background" src="https://github.com/user-attachments/assets/e1f7083a-a0a4-46c3-a6eb-780cd0e012f7" />
+
+<h3 align="center">Video Demos</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <p><b>Video 1 FST Mode</b></p>
+        <a href="(https://youtu.be/91lqUkr6qZw)" target="_blank">
+ <img src="https://img.youtube.com/vi/91lqUkr6qZw/maxresdefault.jpg" alt="DEMO 1" width="600" border="10" />
+</a>
+      </td>
+      <td width="50%" align="center">
+        <p><b>Video 2 RET Mode</b></p>
+        <a href="(https://youtu.be/_j1FsZx1-HQ)" target="_blank">
+ <img src="https://img.youtube.com/vi/[(https://youtu.be/_j1FsZx1-HQ)/maxresdefault.jpg" alt="DEMO 2" width="600" border="10" />
+</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📖 Project Overview
 

@@ -21,7 +21,7 @@ This project features a "Teach & Play" mode, allowing users to manually record m
       <td width="50%" align="center">
         <p><b>Video 1 FST Mode</b></p>
         <a href="https://youtu.be/91lqUkr6qZw" target="_blank">
- <img src="https://img.youtube.com/vi/91lqUkr6qZw/maxresdefault.jpg" alt="DEMO 1" width="600" border="10" />
+ <img src="https://img.youtube.com/vi/91lqUkr6qZw/hqdefault.jpg" alt="DEMO 1" width="600" border="10" />
 </a>
       </td>
       <td width="50%" align="center">

@@ -20,14 +20,14 @@ This project features a "Teach & Play" mode, allowing users to manually record m
     <tr>
       <td width="50%" align="center">
         <p><b>Video 1 FST Mode</b></p>
-        <a href="(https://youtu.be/91lqUkr6qZw)" target="_blank">
+        <a href="https://youtu.be/91lqUkr6qZw" target="_blank">
  <img src="https://img.youtube.com/vi/91lqUkr6qZw/maxresdefault.jpg" alt="DEMO 1" width="600" border="10" />
 </a>
       </td>
       <td width="50%" align="center">
         <p><b>Video 2 RET Mode</b></p>
-        <a href="(https://youtu.be/_j1FsZx1-HQ)" target="_blank">
- <img src="https://img.youtube.com/vi/[(https://youtu.be/_j1FsZx1-HQ)/maxresdefault.jpg" alt="DEMO 2" width="600" border="10" />
+        <a href="https://youtu.be/_j1FsZx1-HQ" target="_blank">
+ <img src="https://img.youtube.com/vi/_j1FsZx1-HQ/maxresdefault.jpg" alt="DEMO 2" width="600" border="10" />
 </a>
       </td>
     </tr>
